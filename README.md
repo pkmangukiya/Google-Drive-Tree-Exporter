@@ -174,14 +174,18 @@ When export is done, a **Summary** sheet is created with counts of:
 
 ---
 
-## 🙋‍♂️ Support
+## 👨‍💻 Maintained By
 
-Found a bug or want to contribute?
-- Open an [issue](https://github.com/pkmangukiya/Google-Drive-Tree-Exporter/issues)
-- Submit a pull request
+**Paresh Mangukiya**  
+📧 Email: [pkmangukiya@gmail.com](mailto:pkmangukiya@gmail.com)  
+🐙 GitHub: [github.com/pkmangukiya](https://github.com/pkmangukiya)  
+🔗 LinkedIn: [pareshmangukiya](https://in.linkedin.com/in/pareshmangukiya)
 
 ---
 
-## 📝 License
+## 🤝 Contributions
 
-MIT License – free to use, share, and modify with attribution.
+Pull requests are welcome!  
+Feel free to open issues for suggestions, improvements, or bug reports.
+
+---
